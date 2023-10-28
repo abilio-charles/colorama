@@ -1,0 +1,25 @@
+{
+  "short_name": "Colorama",
+  "name": "Colorama",
+  "icons": [
+    {
+      "src": "pincel_64.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "pincel_256.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "pincel_512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
